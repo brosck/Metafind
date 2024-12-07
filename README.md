@@ -20,7 +20,7 @@
 ## Instalation:
   
 ```
-$ git clone https://github.com/MrEmpy/Metafind.git
+$ git clone https://github.com/Brosck/Metafind.git
 $ cd Metafind
 $ chmod +x install.sh
 $ sudo ./install.sh
