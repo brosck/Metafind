@@ -33,7 +33,7 @@ class Metafind:
 /_/  /_/\___/\__/\__,_/_/ /_/_/ /_/\__,_/   
                                             
 {Fore.LIGHTCYAN_EX}        ╔═════════════════════════╗
-        ║{Fore.LIGHTWHITE_EX} Tool Created by MrEmpy  {Fore.LIGHTCYAN_EX}║
+        ║{Fore.LIGHTWHITE_EX} Tool Created by Brosck  {Fore.LIGHTCYAN_EX}║
         ║{Fore.LIGHTWHITE_EX} Version 1.0             {Fore.LIGHTCYAN_EX}║
         ╚═════════════════════════╝
 ''')
